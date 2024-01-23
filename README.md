@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Cardinal,  I’m an iOS Developer
+- 🌱 I’m currently try learning new Apple technologies!)
